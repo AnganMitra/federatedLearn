@@ -1,4 +1,4 @@
-# fFramework for Autonomous Federation for Personalized Learners
+# Framework for Autonomous Federation for Personalized Learners
 
 ## Federated Personalization for Smart building to provide ambience intelligence
 
